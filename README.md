@@ -4,4 +4,4 @@ Criei uma Rest-API com objetivo de realizar requisições para consultar de prod
 
 Utilizei o replit para colocar meu site no ar com a API criada. 
 
-![Rest-API](https://github.com/Dsaamorim/Rest-API/blob/main/Requisicao%20.gif)
+![Rest-API](https://github.com/Dsaamorim/Rest-API/blob/main/Api%20com%20Flask.gif)
